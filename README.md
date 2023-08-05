@@ -12,4 +12,4 @@ Criado usando as seguintes tecnologias:
 Comandos para rodar o projeto:
 
 - yarn install
-- yarn dev# geusemin-admin
+- yarn dev
